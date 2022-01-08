@@ -5,4 +5,4 @@ In this project, I have carefully displayed the following HTML skills:
 Adding different types of text to a webpage, using headings, lists, and links.
 Changing emphasis on text using bold and italics.
 Embedding an image on the web page and image captions.
-as stated in the project requirement here https://devpractical.com/html-projects-tribute-page/
+as stated in the project requirement here https://devpractical.com/html-projects-tribute-page/ and https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-tribute-page
